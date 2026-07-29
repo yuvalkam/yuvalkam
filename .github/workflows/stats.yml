@@ -1,0 +1,41 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate stats
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: profile/stats.svg
+          colors: dark
+          hide-keys: languages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate languages
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: profile/top-langs.svg
+          colors: dark
+          hide-keys: general,contributions,repositories
+          max-languages: 6
+          animated-language-chart: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
