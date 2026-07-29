@@ -190,5 +190,3 @@ yuval@github:~$ _
 
 </div>
 ```
-
-וה־`snake.yml` צריך להיות קובץ נפרד, לא בתוך ה־README.
