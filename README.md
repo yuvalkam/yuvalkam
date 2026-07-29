@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# `> YUVAL KAMIONER_`
+# `> YUVAL KAMYUNER_`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Embedded+Developer;Computer+Science+Student;Building+Software+%26+Systems..." />
 
@@ -10,7 +10,7 @@
 │                                                     │
 │   SYSTEM ONLINE                                     │
 │                                                     │
-│   USER     Yuval Kamioner                           │
+│   USER     Yuval Kamyuner                           │
 │   ROLE     Full Stack Developer                     │
 │            Embedded Developer                       │
 │            Computer Science Student                 │
