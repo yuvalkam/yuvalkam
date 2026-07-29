@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # `> YUVAL KAMIONER_`
@@ -17,7 +18,7 @@
 │   STATUS   Building things that actually work.      │
 │                                                     │
 └─────────────────────────────────────────────────────┘
-```
+````
 
 </div>
 
@@ -130,8 +131,7 @@ Built with:
 
 ### 🌐 Full Stack Development
 
-Web applications combining modern frontend development
-with backend APIs and application logic.
+Web applications combining modern frontend development with backend APIs and application logic.
 
 Built with:
 
@@ -141,8 +141,7 @@ Built with:
 
 ### ⚙️ Embedded Development
 
-Software development closer to the hardware layer,
-combining programming with systems-level development.
+Software development closer to the hardware layer, combining programming with systems-level development.
 
 Built with:
 
@@ -154,9 +153,9 @@ Built with:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuvalkam&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvalkam&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -166,7 +165,7 @@ Built with:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/yuvalkam/yuvalkam/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -190,3 +189,6 @@ yuval@github:~$ _
 ### `Code. Build. Break. Learn. Repeat.`
 
 </div>
+```
+
+וה־`snake.yml` צריך להיות קובץ נפרד, לא בתוך ה־README.
