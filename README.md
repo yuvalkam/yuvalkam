@@ -2,7 +2,7 @@
 
 # `> YUVAL KAMIONER_`
 
-### Full Stack Developer • Embedded Developer • Computer Science Student
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Embedded+Developer;Computer+Science+Student;Building+Software+%26+Systems..." />
 
 ```text
 ┌─────────────────────────────────────────────────────┐
@@ -55,13 +55,21 @@ yuval@github:~$ _
 ### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,nodejs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,nodejs,powershell" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PlatformIO-Embedded_Development-orange?style=for-the-badge&logo=platformio&logoColor=white" />
 </p>
 
 ### Tools & Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,visualstudio" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Bitbucket-Version_Control-blue?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </p>
 
 ---
@@ -76,16 +84,32 @@ roles:
   - Embedded Developer
   - Computer Science Student
 
-current_focus:
-  - .NET 8
-  - Backend Development
-  - Angular
+focus:
+  - Full Stack Development
+  - Backend Engineering
   - Embedded Systems
+  - Software Architecture
 
 environment:
-  os: Linux / Windows
-  editor: VS Code / Visual Studio
-  version_control: Git
+  os:
+    - Linux
+    - Windows
+
+  development:
+    - .NET
+    - Angular
+    - Node.js
+    - PlatformIO
+    - PowerShell
+
+  version_control:
+    - Git
+    - GitHub
+    - Bitbucket
+
+  editors:
+    - VS Code
+    - Visual Studio
 
 status: "Always learning. Always building."
 ```
@@ -117,12 +141,12 @@ Built with:
 
 ### ⚙️ Embedded Development
 
-Working with software closer to the hardware layer,
+Software development closer to the hardware layer,
 combining programming with systems-level development.
 
-Focus:
+Built with:
 
-`C` • `C++` • `Embedded Systems` • `Low-Level Programming`
+`C` • `C++` • `PlatformIO` • `Embedded Systems`
 
 ---
 
@@ -136,6 +160,17 @@ Focus:
 
 </div>
 
+---
+
+## `> contribution.activity`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
 
 <div align="center">
 
@@ -146,9 +181,10 @@ Compiling ideas...
 Building projects...
 Learning new systems...
 
-[ OK ] Ready for the next challenge.
+[ OK ] Build successful.
+[ OK ] System ready.
 
-_
+yuval@github:~$ _
 ```
 
 ### `Code. Build. Break. Learn. Repeat.`
