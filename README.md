@@ -173,20 +173,3 @@ Built with:
 
 <div align="center">
 
-```text
-yuval@github:~$ ./build_future.sh
-
-Compiling ideas...
-Building projects...
-Learning new systems...
-
-[ OK ] Build successful.
-[ OK ] System ready.
-
-yuval@github:~$ _
-```
-
-### `Code. Build. Break. Learn. Repeat.`
-
-</div>
-```
