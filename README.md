@@ -153,9 +153,9 @@ Built with:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yuvalkam&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="./profile/stats.svg" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvalkam&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="./profile/top-langs.svg" />
 
 </div>
 
