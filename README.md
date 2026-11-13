@@ -83,7 +83,6 @@ name: Yuval Kamioner
 roles:
   - Full Stack Developer
   - Embedded Developer
-  - Computer Science Student
 
 focus:
   - Full Stack Development
